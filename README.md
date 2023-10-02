@@ -1,1 +1,3 @@
 # Driver-Drowsiness-Detection-System
+
+This drowsiness detection project aims to develop a system that can detect fatigue in humans and issue a timely warning. The system monitors the person's eyes using a camera and an algorithm includes Deep learning model Dlib modules and 68 Face land mark detector, to detect symptoms of driver fatigue early enough to avoid the person from sleeping. The project can be helpful in detecting driver fatigue in advance and will give warning output in the form of pop-ups. The project uses OpenCV for gathering images from a webcam and feeding them into a Deep Learning model which will classify whether the person's eyes are 'Open' or 'Closed' using Facial Landmarks.
